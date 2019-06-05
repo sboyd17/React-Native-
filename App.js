@@ -27,7 +27,7 @@ export default class App extends Component {
 
           <View style={[styles.half21, styles.half2x]}>
             <Text style={styles.text}>
-              2-1
+              this 2-1
             </Text>
           </View>
 
